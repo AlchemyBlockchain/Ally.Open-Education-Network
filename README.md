@@ -12,3 +12,6 @@ https://open.umn.edu/opentextbooks/books
 
 Book.Example:
 - https://open.umn.edu/opentextbooks/textbooks/introduction-to-engineering-thermodynamics
+
+# Membership
+https://open.umn.edu/oen/join
